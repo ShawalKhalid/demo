@@ -9,7 +9,12 @@ README.md
 Dockerfile
 .DS_Store
 context.xml
-**/webapp/
+**/webapp/css/
+**/webapp/img/
+**/webapp/js/
+**/webapp/*.png
+**/webapp/*.html
+**/webapp/*.jsp
 **/test/
 .eslintrc.js
 .browserslistrc
