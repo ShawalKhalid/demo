@@ -4,8 +4,6 @@ client/node_modules/
 /.gradle
 docker-compose.yml
 DockerImageBuild.sh
-gradlew
-gradlew.bat
 README.md
 /server/build
 Dockerfile
@@ -13,7 +11,6 @@ Dockerfile
 context.xml
 **/webapp/
 **/test/
-/gradle/
 .eslintrc.js
 .browserslistrc
 /documentation/
