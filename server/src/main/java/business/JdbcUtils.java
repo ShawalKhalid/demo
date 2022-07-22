@@ -10,7 +10,7 @@ import business.BookstoreDbException.BookstoreConnectionDbException;
 
 public class JdbcUtils {
 
-    private static final String JDBC_BOOKSTORE = "jdbc/DannyBookstore";
+    private static final String JDBC_BOOKSTORE = "jdbc/Bookstore";
 
     private static DataSource dataSource;
 
