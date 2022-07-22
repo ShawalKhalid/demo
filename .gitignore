@@ -18,3 +18,5 @@ context.xml
 /gradle/
 .eslintrc.js
 .browserslistrc
+/documentation/
+/screenshots/
