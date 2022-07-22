@@ -7,7 +7,6 @@ DockerImageBuild.sh
 gradlew
 gradlew.bat
 README.md
-settings.gradle
 /server/build
 Dockerfile
 .DS_Store
